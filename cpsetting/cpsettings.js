@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.domain = "https://" // Isi Domain mu, WEBSITE WAJIB ADA SSL
+global.domain = "https://" // Isi Domain mu, WEBSITE WAJIB ADA SS
 global.apikey = '-' // Isi Apikey Pterodactyl mu
 global.capikey = '-' // Isi Apikey Pterodactyl mu
 global.creAtor = "6281234824414@s.whatsapp.net"
